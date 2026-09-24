@@ -14,6 +14,13 @@ A sample dataset that classifies public infrastructure reports into pavement dam
 - [Sample labeled dataset](projects/text-classification/sample_data.csv)
 - [Python label analysis](projects/text-classification/analyze_labels.py)
 
+- ### LLM Response Evaluation
+A rubric-based evaluation sample that scores AI responses for accuracy, relevance, clarity, and safety.
+
+- [Project documentation](projects/llm-response-evaluation/README.md)
+- [Evaluation sample scores](projects/llm-response-evaluation/evaluation_samples.csv)
+
+
 ## Skills
 - Text annotation and taxonomy design
 - Annotation guidelines and quality assurance
