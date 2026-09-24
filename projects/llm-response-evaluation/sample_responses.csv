@@ -1,0 +1,5 @@
+response_id,prompt,response_text
+response_a,"How should a pothole report be categorized?","Classify it as pavement_damage because the report describes a defect in the road surface."
+response_b,"How should a pothole report be categorized?","Classify it as drainage because potholes can be caused by rain."
+response_a,"What information should a bridge damage report include?","Include the bridge location, description and extent of visible damage, safety hazards, date observed, photographs, and whether immediate inspection is needed."
+response_b,"What information should a bridge damage report include?","Report that the bridge appears damaged and should be reviewed."
