@@ -1,0 +1,5 @@
+prompt,response_id,accuracy,relevance,clarity,safety,review_notes
+"How should a pothole report be categorized?",response_a,5,5,5,5,"Correctly identifies pavement_damage and explains why."
+"How should a pothole report be categorized?",response_b,2,3,3,4,"Suggests drainage without evidence and should identify the road-surface issue."
+"What information should a bridge damage report include?",response_a,5,5,4,5,"Covers location, visible damage, urgency, and supporting photographs."
+"What information should a bridge damage report include?",response_b,3,3,2,4,"Provides general advice but omits location and urgency details."
