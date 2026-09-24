@@ -22,3 +22,8 @@ Each response is scored from 1 to 5 on:
 
 ## Skills demonstrated
 LLM evaluation, rubric design, quality assurance, error analysis, technical judgment, and structured documentation.
+
+## Evaluation artifacts
+- [Sample AI responses](sample_responses.csv)
+- [Rubric scores and reviewer notes](evaluation_samples.csv)
+
