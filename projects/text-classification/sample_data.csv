@@ -1,0 +1,13 @@
+report_text,label
+"Pothole near Main Street and 5th Avenue.",pavement_damage
+"Large crack spreading across the eastbound lane.",pavement_damage
+"Traffic light stays red for eastbound traffic.",traffic_signal
+"Pedestrian crossing signal is not working.",traffic_signal
+"Stop sign at Oak Street is bent and unreadable.",road_signage
+"Missing speed-limit sign near the school zone.",road_signage
+"Blocked storm drain causing water to pool on road.",drainage
+"Road floods after moderate rainfall near the underpass.",drainage
+"Concrete damage visible on bridge support.",bridge_structure
+"Bridge railing is loose near the pedestrian walkway.",bridge_structure
+"Streetlight outage reported outside the library.",other
+"Illegal dumping beside the roadway.",other
